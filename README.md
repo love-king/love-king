@@ -19,11 +19,11 @@
 
   <!-- profile logo 个人资料徽标 -->
    <div>
-    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://x.com/love_king0"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://youtube.com/channel/UCXFo5iWvD8M-zsE4HcQXwmw?si=mOKY9kpm_9ZIwkKe"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://www.zerospace.love/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://space.bilibili.com/3546787736455731"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=love-king&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
@@ -98,7 +98,7 @@
 <div align="center">
 
 <!-- 图片 -->
-<img src="https://raw.githubusercontent.com/love-king/uPic-images/master/uPic/github.webp" width="250" height="250" />
+<img src="https://raw.githubusercontent.com/love-king/uPic-images/master/uPic/github.webp" width="150" height="150" />
 
 <!-- Joke 笑话 -->
 <div>
@@ -139,8 +139,8 @@
 
 <div align="center" >
 
-<!-- just img 图片 -->
-<img src="https://raw.githubusercontent.com/love-king/uPic-images/master/uPic/githubgif.gif" width="250" height="250" />
+<!-- img 图片 -->
+<img src="https://raw.githubusercontent.com/love-king/uPic-images/master/uPic/githubgif.gif" width="150" height="150" />
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
@@ -150,7 +150,7 @@
 
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=love-king&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=love-king&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+<br>
 
 <!-- Wakatime Graph-->
 <table>
@@ -168,7 +168,7 @@
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://raw.githubusercontent.com/love-king/uPic-images/master/uPic/partying .png" width="250" height="250" />
+<img src="https://raw.githubusercontent.com/love-king/uPic-images/master/uPic/partying .png" width="150" height="150" />
 
 <!--  skill badge 技能徽章 -->
 
