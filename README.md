@@ -9,9 +9,9 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/love-king/uPic-images/master/uPic/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/love-king/uPic-images/master/uPic/developer.svg" height="225px" />
-    <img src="https://raw.githubusercontent.com/love-king/uPic-images/master/uPic/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/love-king/uPic-images/master/2025/01/29/coding_121931.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/love-king/uPic-images/master/2025/01/29/developer_121949.svg" height="225px" />
+    <img src="https://raw.githubusercontent.com/love-king/uPic-images/master/2025/01/29/coding_121931.gif" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -34,15 +34,15 @@
   <picture>
     <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://raw.githubusercontent.com/love-king/uPic-images/master/uPic/github-contribution-grid-snake-dark.svg" 
+        srcset="https://raw.githubusercontent.com/love-king/uPic-images/master/2025/01/29/github-contribution-grid-snake-dark_122019.svg" 
     />
     <source 
         media="(prefers-color-scheme: light)" 
-        srcset="https://raw.githubusercontent.com/love-king/uPic-images/master/uPic/github-contribution-grid-snake.svg" 
+        srcset="https://raw.githubusercontent.com/love-king/uPic-images/master/2025/01/29/github-contribution-grid-snake_122037.svg" 
     />
     <img 
         alt="github-snake" 
-        src="https://raw.githubusercontent.com/love-king/uPic-images/master/uPic/github-contribution-grid-snake-dark.svg" 
+        src="https://raw.githubusercontent.com/love-king/uPic-images/master/2025/01/29/github-contribution-grid-snake-dark_122019.svg" 
     />
   </picture>
 
